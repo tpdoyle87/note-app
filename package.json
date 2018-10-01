@@ -1,0 +1,22 @@
+{
+  "name": "note-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tpdoyle87/note-app.git"
+  },
+  "author": "Thomas Doyle-Engler",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tpdoyle87/note-app/issues"
+  },
+  "homepage": "https://github.com/tpdoyle87/note-app#readme",
+  "dependencies": {
+    "lodash": "^4.17.11"
+  }
+}
